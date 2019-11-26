@@ -1,4 +1,4 @@
 # hello-world
 just another reporsitory
 
-i am liguoxiong,work in bank
+i am xiongshao,work in bank
